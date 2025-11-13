@@ -23,6 +23,8 @@ Actualmente, los datos se guardan de manera desordenada, lo que complica llevar 
 
 ## 5 consultas en Álgebra Relacional y traducida en SQL
 
+## Archivos CSV para Algebra Relacional:
+**[Veterinaria Algebra Relacional](Vet_Algebra_r)**
 
 ### Consultas en SQL:
 
